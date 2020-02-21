@@ -2244,10 +2244,10 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/Metal roof coating 2.JPG");
-		background-size: 256px 256px, cover;
+		background:  url("../../images/Metal roof coating 2.JPG");
+		background-size: 2500px 1500px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+		background-position: top right, bottom center;
 		background-repeat: repeat, no-repeat;
 	}
 
