@@ -2317,7 +2317,7 @@ body.is-touch .main {
 /* One */
 #one {
     background: url("../../images/Metal roof coating 2.JPG");
-    background-size: 2000px auto, cover;
+    background-size: 1500px auto, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
 }
